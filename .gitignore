@@ -7,3 +7,8 @@
 
 # release-it configuration file
 .release-it.yml
+
+save/
+.idea/
+.DS_Store
+
